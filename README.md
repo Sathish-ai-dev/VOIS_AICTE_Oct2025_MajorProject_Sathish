@@ -46,8 +46,8 @@ Netflix-Content-Analysis/ ├── Netflix Dataset.csv ├── Netflix_Analys
 
 ## 1. Clone the Repository  
 ---```bash
-git clone https://github.com/YourUsername/VOIS_AICTE_Oct2025_MajorProject_SathishSubramani.git
-cd VOIS_AICTE_Oct2025_MajorProject_SathishSubramani
+git clone https://github.com/YourUsername/VOIS_AICTE_Oct2025_MajorProject_Sathish.git
+cd VOIS_AICTE_Oct2025_MajorProject_Sathish
 
 ## 2. Create a Virtual Environment
 bash
@@ -89,8 +89,8 @@ jupyter notebook
 ## 📬 Contact
 - Author: Sathish S 
 - Email: [sathishsubramani9043@gmail.com] 
-- LinkedIn: [linkedin.com/in/sathish-ai-dev] 
-- GitHub: [github.com/Sathish-ai-dev]
+- LinkedIn: [https://www.linkedin.com/in/sathish-ai-dev] 
+- GitHub: [https://www.github.com/Sathish-ai-dev]
 
 ## 🙏 Acknowledgments
 Thanks to AICTE and VOIS for the internship opportunity. This project helped strengthen my skills in Python, data analysis, and strategic thinking for media platforms.
