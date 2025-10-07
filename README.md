@@ -42,13 +42,12 @@ Netflix’s catalog is vast and diverse, but its strategic direction must be inf
 Netflix-Content-Analysis/ ├── Netflix Dataset.csv ├── Netflix_Analysis.ipynb ├── README.md ├── screenshots/ │ ├── movies_vs_tvshows.png │ ├── genre_trends.png │ ├── country_contributions.png └── certificates/ ├── python_basics_certificate.png └── data_visualization_certificate.png
 
 
----```bash
-git clone https://github.com/YourUsername/VOIS_AICTE_Oct2025_MajorProject_SathishSubramani.git
-cd VOIS_AICTE_Oct2025_MajorProject_SathishSubramani
-
 ## 🚀 How to Run the Project  
 
 ## 1. Clone the Repository  
+---```bash
+git clone https://github.com/YourUsername/VOIS_AICTE_Oct2025_MajorProject_SathishSubramani.git
+cd VOIS_AICTE_Oct2025_MajorProject_SathishSubramani
 
 ## 2. Create a Virtual Environment
 bash
